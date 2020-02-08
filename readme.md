@@ -1,4 +1,4 @@
-# 贪吃蛇游戏(Snake)
+# Rust贪吃蛇游戏(Snake)
 # 运行
 ```
 cargo run
